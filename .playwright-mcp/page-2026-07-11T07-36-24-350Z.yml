@@ -1,0 +1,643 @@
+- generic [active] [ref=f16e1]:
+  - banner [ref=f16e2]:
+    - generic [ref=f16e5]:
+      - list [ref=f16e7]:
+        - listitem [ref=f16e8]:
+          - generic [ref=f16e9]: 
+          - text: Have a question? Call us
+          - link "+8809648156710" [ref=f16e10] [cursor=pointer]:
+            - /url: tel:+8809648156710
+      - list [ref=f16e12]:
+        - listitem [ref=f16e13]:
+          - link "Sign In" [ref=f16e14] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/login
+        - listitem [ref=f16e16]:
+          - link "Sign Up" [ref=f16e17] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/register
+        - listitem [ref=f16e18]:
+          - link "Seller" [ref=f16e19] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/seller
+        - listitem
+    - generic [ref=f16e21]:
+      - link [ref=f16e28] [cursor=pointer]:
+        - /url: http://127.0.0.1:8000
+        - img "Application Logo" [ref=f16e29]
+      - text:  
+      - generic [ref=f16e30]:
+        - generic [ref=f16e32]:
+          - searchbox "Sea|" [ref=f16e33]
+          - button "" [disabled] [ref=f16e34] [cursor=pointer]
+        - text: 
+      - list [ref=f16e37]:
+        - listitem [ref=f16e38]:
+          - link [ref=f16e39] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/wishlist
+            - generic [ref=f16e40]: 
+            - superscript [ref=f16e41]: "0"
+        - listitem [ref=f16e42]:
+          - link [ref=f16e43] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/cart
+            - generic [ref=f16e44]: 
+            - superscript [ref=f16e45]: "0"
+    - generic [ref=f16e47]:
+      - text: 
+      - generic [ref=f16e48]:
+        - link "MENU" [ref=f16e49] [cursor=pointer]:
+          - /url: "#"
+        - link "CATEGORIES" [ref=f16e50] [cursor=pointer]:
+          - /url: "#"
+      - generic [ref=f16e51]:
+        - text:        
+        - list [ref=f16e53]:
+          - listitem [ref=f16e54] [cursor=pointer]:
+            - link "Home" [ref=f16e55]:
+              - /url: http://127.0.0.1:8000
+          - listitem [ref=f16e56] [cursor=pointer]:
+            - link "All Products" [ref=f16e57]:
+              - /url: http://127.0.0.1:8000/product
+          - listitem [ref=f16e58] [cursor=pointer]:
+            - link "Updates" [ref=f16e59]:
+              - /url: http://127.0.0.1:8000/blogs
+          - listitem [ref=f16e60] [cursor=pointer]:
+            - link "Order Track" [ref=f16e61]:
+              - /url: http://127.0.0.1:8000/order/track
+          - listitem [ref=f16e62] [cursor=pointer]:
+            - link "Contact Us" [ref=f16e63]:
+              - /url: http://127.0.0.1:8000/contact/form
+  - text:  
+  - generic [ref=f16e65]:
+    - generic [ref=f16e66]:
+      - generic [ref=f16e69]:
+        - list [ref=f16e71]:
+          - listitem [ref=f16e72]:
+            - link [ref=f16e74] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/uploads/product/2024-07-16-66967b602801c.jpg
+              - figure [ref=f16e75]
+          - listitem [ref=f16e76]:
+            - link [ref=f16e78] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/uploads/product/2024-07-16-66967b602801c.jpg
+              - figure [ref=f16e79]
+          - listitem [ref=f16e80]:
+            - link [ref=f16e82] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/uploads/product/2024-07-16-66967b602801c.jpg
+              - figure [ref=f16e83]
+        - list
+      - generic [ref=f16e84]:
+        - heading "আদার গুঁড়া | Ginger Powder" [level=1] [ref=f16e85]
+        - generic [ref=f16e86]:
+          - paragraph
+          - paragraph [ref=f16e87]: হিমালয়ান সল্ট পৃথিবীতে পাওয়া সবচেয়ে বিশুদ্ধ লবণ যা বিষাক্ত ও দূষিত পদার্থ মুক্ত। এই লবণ হিমালয় পর্বত থেকে তৈরি হয় এবং সেখানে এটি “হোয়াইট গোল্ড” নামে সুপরিচিত। এই লবণের অনন্যতার কারণ হচ্ছে এর গোলাপি বর্ণ যা আয়রন অক্সাইডের উপস্থিতির জন্য হয়ে থাকে। একারণে এ লবণকে “পিংক সল্ট” ও বলা হয়।
+          - paragraph
+        - generic [ref=f16e89]:
+          - generic [ref=f16e90]: 
+          - generic [ref=f16e91]: 
+          - generic [ref=f16e92]: 
+          - generic [ref=f16e93]: 
+          - generic [ref=f16e94]: 
+          - text: 0 Rating of 7 orders
+        - paragraph [ref=f16e95]:
+          - text: "Product Code (SKU):"
+          - generic [ref=f16e96]: "1234"
+        - paragraph [ref=f16e97]:
+          - text: "Seller:"
+          - link "Khati Dana" [ref=f16e98] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/vendor/495661727735281
+        - paragraph [ref=f16e99]:
+          - text: "Brand:"
+          - link "BD" [ref=f16e100] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/brand/bd
+        - paragraph [ref=f16e101]:
+          - generic [ref=f16e102]: Tk.1600
+        - paragraph [ref=f16e103]: "Whole Sell: Tk.1500"
+        - paragraph
+        - paragraph [ref=f16e104]:
+          - generic [ref=f16e105]: 
+          - text: In Stock (9992 copies available)
+        - paragraph [ref=f16e107]: "* স্টক আউট হওয়ার আগেই অর্ডার করুন"
+        - paragraph
+        - generic [ref=f16e109]:
+          - textbox [ref=f16e111]: "1"
+          - text: (9992 available)
+        - generic [ref=f16e113]:
+          - group [ref=f16e117]:
+            - button "Add To Cart" [ref=f16e118] [cursor=pointer]:
+              - generic [ref=f16e119]: 
+              - text: Add To Cart
+          - group [ref=f16e123]:
+            - button "Buy Now" [ref=f16e124] [cursor=pointer]
+        - generic [ref=f16e125]:
+          - generic [ref=f16e126]:
+            - button "Add To Wishlist" [ref=f16e128] [cursor=pointer]:
+              - generic [ref=f16e129]: 
+              - text: Add To Wishlist
+            - generic [ref=f16e130] [cursor=pointer]:
+              - generic [ref=f16e131]: 
+              - text: Share This Item
+          - generic [ref=f16e133]:
+            - generic [ref=f16e134]:
+              - generic [ref=f16e135]: 
+              - text: 7 Days Happy Return
+            - generic [ref=f16e136]:
+              - generic [ref=f16e137]: 
+              - text: Cash On Delivery
+      - generic [ref=f16e138]:
+        - heading "Related Product" [level=3] [ref=f16e139]
+        - generic [ref=f16e140]:
+          - link [ref=f16e143] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/product/598954979462660
+            - img "Product Image" [ref=f16e144]
+          - generic [ref=f16e145]:
+            - link [ref=f16e146] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/598954979462660
+              - paragraph [ref=f16e147]: শাহী গরম মশলা | Shahi Garam Masala Powder
+            - paragraph [ref=f16e148]:
+              - text: "Price:"
+              - strong [ref=f16e150]: Tk.800
+            - generic [ref=f16e152]:
+              - generic [ref=f16e153]: 
+              - generic [ref=f16e154]: 
+              - generic [ref=f16e155]: 
+              - generic [ref=f16e156]: 
+              - generic [ref=f16e157]: 
+              - generic [ref=f16e158]: 0 rating
+        - generic [ref=f16e159]:
+          - link [ref=f16e162] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/product/727743771013033
+            - img "Product Image" [ref=f16e163]
+          - generic [ref=f16e164]:
+            - link [ref=f16e165] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/727743771013033
+              - paragraph [ref=f16e166]: ধনিয়ার গুঁড়া | Coriander Powder
+            - paragraph [ref=f16e167]:
+              - text: "Price:"
+              - strong [ref=f16e169]: Tk.1800
+            - generic [ref=f16e171]:
+              - generic [ref=f16e172]: 
+              - generic [ref=f16e173]: 
+              - generic [ref=f16e174]: 
+              - generic [ref=f16e175]: 
+              - generic [ref=f16e176]: 
+              - generic [ref=f16e177]: 0 rating
+        - generic [ref=f16e178]:
+          - link [ref=f16e181] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/product/502897867172481
+            - img "Product Image" [ref=f16e182]
+          - generic [ref=f16e183]:
+            - link [ref=f16e184] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/502897867172481
+              - paragraph [ref=f16e185]: আদার গুঁড়া | Ginger Powder
+            - paragraph [ref=f16e186]:
+              - text: "Price:"
+              - strong [ref=f16e188]: Tk.1600
+            - generic [ref=f16e190]:
+              - generic [ref=f16e191]: 
+              - generic [ref=f16e192]: 
+              - generic [ref=f16e193]: 
+              - generic [ref=f16e194]: 
+              - generic [ref=f16e195]: 
+              - generic [ref=f16e196]: 0 rating
+        - generic [ref=f16e197]:
+          - link [ref=f16e200] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/product/590696078933680
+            - img "Product Image" [ref=f16e201]
+          - generic [ref=f16e202]:
+            - link [ref=f16e203] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/590696078933680
+              - paragraph [ref=f16e204]: হিমালয়ান পিংক সল্ট গুঁড়া | Himalayan Pink Salt Powder
+            - paragraph [ref=f16e205]:
+              - text: "Price:"
+              - strong [ref=f16e207]: Tk.140
+            - generic [ref=f16e209]:
+              - generic [ref=f16e210]: 
+              - generic [ref=f16e211]: 
+              - generic [ref=f16e212]: 
+              - generic [ref=f16e213]: 
+              - generic [ref=f16e214]: 
+              - generic [ref=f16e215]: 0 rating
+        - generic [ref=f16e216]:
+          - link [ref=f16e219] [cursor=pointer]:
+            - /url: http://127.0.0.1:8000/product/167233538195717
+            - img "Product Image" [ref=f16e220]
+          - generic [ref=f16e221]:
+            - link [ref=f16e222] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/167233538195717
+              - paragraph [ref=f16e223]: মরিচের গুঁড়া- ঝাল | Chilli Powder (Spice)
+            - paragraph [ref=f16e224]:
+              - text: "Price:"
+              - strong [ref=f16e226]: Tk.1400
+            - generic [ref=f16e228]:
+              - generic [ref=f16e229]: 
+              - generic [ref=f16e230]: 
+              - generic [ref=f16e231]: 
+              - generic [ref=f16e232]: 
+              - generic [ref=f16e233]: 
+              - generic [ref=f16e234]: 0 rating
+    - generic [ref=f16e236]:
+      - heading "Product Specification & Summary" [level=4] [ref=f16e237]
+      - generic [ref=f16e238]:
+        - button "Summary" [expanded] [ref=f16e239] [cursor=pointer]
+        - button "Reviews(0)" [ref=f16e240] [cursor=pointer]
+        - button "Ask Question(0)" [ref=f16e241] [cursor=pointer]
+      - generic [ref=f16e243]:
+        - paragraph [ref=f16e244]: হিমালয়ান সল্ট পৃথিবীতে পাওয়া সবচেয়ে বিশুদ্ধ লবণ যা বিষাক্ত ও দূষিত পদার্থ মুক্ত। এই লবণ হিমালয় পর্বত থেকে তৈরি হয় এবং সেখানে এটি “হোয়াইট গোল্ড” নামে সুপরিচিত। এই লবণের অনন্যতার কারণ হচ্ছে এর গোলাপি বর্ণ যা আয়রন অক্সাইডের উপস্থিতির জন্য হয়ে থাকে। একারণে এ লবণকে “পিংক সল্ট” ও বলা হয়।
+        - paragraph [ref=f16e245]: প্রধানত হিমালয়ান সল্ট সোডিয়াম ক্লোরাইড নিয়ে গঠিত। তবে এতে সালফেট, ম্যাগনেসিয়াম, ক্যালসিয়াম, পটাসিয়াম, ফসফরাস, কপার, জিংক, সেলেনিয়াম, আয়োডিন এবং ফ্লোরাইডসহ প্রায় ৮০টির মত উপাদান থাকে। এই লবণের খনিজ উপাদানগুলো আঠালো গঠনে থাকে এবং মানুষের শরীরের কোষে খুব সহজেই শোষিত হতে পারে। খনিজ লবণে সমৃদ্ধ হওয়ায় এই লবণ শরীর ও মনের নিরাময়ে বিস্ময়কর ভাবে কাজ করে। চলুন হিমালয়ান সল্টের স্বাস্থ্য উপকারিতা সম্পর্কে জেনে নিই।
+        - paragraph [ref=f16e246]: ১। শরীরের তরলের ভারসাম্য রক্ষা করে
+        - paragraph [ref=f16e247]: হিমালয়ান পিংক সল্টে বিভিন্ন ধরণের ইলেক্ট্রোলাইট থাকে যা শরীরের আর্দ্রতা নিয়ন্ত্রণ করে। শরীরের কোষগুলোর কাজ সঠিকভাবে সম্পন্ন হওয়ার জন্য শরীরের আর্দ্রতা বজায় থাকা অত্যন্ত প্রয়োজনীয়। এই লবণে উপস্থিত প্রধান ইলেক্ট্রোলাইটগুলো হচ্ছে সোডিয়াম, পটাসিয়াম, ক্যালসিয়াম, ম্যাগনেসিয়াম এবং ক্লোরাইড। এই ইলেক্ট্রোলাইটগুলো পানির চেয়েও দ্রুত শরীরে শোষিত হয়। একটি কাঁচের জারে ১ ইঞ্চি পরিমাণ হিমালয়ান ক্রিস্টাল সল্ট নিন। এর মধ্যে ২-৩ ইঞ্চি পরিমাণ বিশুদ্ধ পানি দিয়ে ঢেকে রাখুন সারারাত। সকালে এই দ্রবণটি থেকে ১ চা চামচ দ্রবণ নিয়ে ১ গ্লাস বিশুদ্ধ পানিতে মিশিয়ে পান করুন। তবে এই দ্রবণটি তৈরি করার সময় ধাতব ঢাকনা বা চামচ ব্যবহার করবেন না।
+        - paragraph [ref=f16e248]: ২। শরীরকে বিষমুক্ত হতে সাহায্য করে
+        - paragraph [ref=f16e249]: হিমালয়ান সল্ট গোসলের পানিতে ব্যবহার করলে শরীরের কোষগুলো পুনরুজ্জীবিত ও বিষমুক্ত হয়। এই লবণের খনিজ উপাদানগুলো পানিতে স্থানান্তরিত হয়। তাই যখন এই পানি দিয়ে গোসল করা হয় তখন শরীরের কোষ ও রক্তস্রোত থেকে বিষাক্ত পদার্থ বাহির হয়ে যায়।
+        - paragraph [ref=f16e250]: ৩। পরিপাক নালীকে পরিষ্কার করে
+        - paragraph [ref=f16e251]: প্রাকৃতিকভাবে পরিপাক নালীকে পরিষ্কার হতে সাহায্য করে পিংক সল্ট। এটি জোলাপ হিসেবে কাজ করে এবং পরিপাক তন্ত্রের জমে থাকা টক্সিনকে বর্জ্য পদার্থ হিসেবে বাহির হয়ে যাওয়ার জন্য সাহায্য করে।
+        - paragraph [ref=f16e252]: ৪। শরীরের pH এর ভারসাম্য রক্ষা করে
+        - paragraph [ref=f16e253]: হিমালয়ান সল্ট শরীরের ক্ষারীয় অবস্থা বজায় থাকতে সাহায্য করে। এটি দেহের তরলের হাইড্রোজেন আয়নের মাত্রা নিয়ন্ত্রণ করে। সীসা, মার্কারি ও আর্সেনিকের মত ভারী ধাতু শরীর থেকে বাহির করে দিতে সাহায্য করে।
+        - paragraph [ref=f16e254]: ৫। শ্বাসতন্ত্রের রোগ থেকে মুক্তি দেয়
+        - paragraph [ref=f16e255]: সাইনুসাইটিস, অ্যাজমা, ব্রংকাইটিস বা অ্যালার্জি থেকে নিরাময়ে সাহায্য করে হিমালয়ান সল্ট। শ্বসনতন্ত্রকে পরিষ্কার হতে ও ক্ষতিকর পদার্থ বাহির হয়ে যেতে সাহায্য করে। এই লবণের অ্যান্টি ইনফ্লামেটরি উপাদান অতিরিক্ত মিউকাসকে নরম ও আলগা হতে সাহায্য করে এবং মিউকোসিলিয়ারি পরিবহণের গতি বৃদ্ধিতে সাহায্য করে। এই লবণের উপাদানগুলো ফুসফুসের গভীরে প্রবেশ করে ক্ষতিগ্রস্থ টিস্যুকে নিরাময়ে সাহায্য করে। গরম পানিতে পিংক সল্ট দিয়ে এর ভাপ নিন।
+        - paragraph [ref=f16e256]: এছাড়াও হিমালয়ান সল্ট দাঁতের স্বাস্থ্যের উন্নতিতে সাহায্য করে, ব্লাড সুগার স্বাভাবিক রাখতে সাহায্য করে, পেশীর সংকোচন প্রতিরোধ করে, ত্বকের প্রদাহ কমতে সাহায্য করে এবং ভালো ঘুম হতে সাহায্য করে।
+      - text:     
+    - generic [ref=f16e258]:
+      - heading "Similar Category Best" [level=3] [ref=f16e259]
+      - generic [ref=f16e262]:
+        - generic [ref=f16e265]:
+          - generic [ref=f16e266]:
+            - link [ref=f16e268] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/502897867172481
+            - generic [ref=f16e270]:
+              - generic [ref=f16e272]:
+                - generic [ref=f16e273]: 
+                - generic [ref=f16e274]: 
+                - generic [ref=f16e275]: 
+                - generic [ref=f16e276]: 
+                - generic [ref=f16e277]: 
+              - heading [level=6] [ref=f16e278]:
+                - strong [ref=f16e279]: ৳1600
+              - link [ref=f16e280] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/502897867172481
+                - heading [level=5] [ref=f16e281]: আদার গুঁড়া | Ginger Powder...
+            - heading [level=6] [ref=f16e282]
+            - text: 
+          - text:  
+        - generic [ref=f16e285]:
+          - generic [ref=f16e286]:
+            - link [ref=f16e288] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/590696078933680
+            - generic [ref=f16e290]:
+              - generic [ref=f16e292]:
+                - generic [ref=f16e293]: 
+                - generic [ref=f16e294]: 
+                - generic [ref=f16e295]: 
+                - generic [ref=f16e296]: 
+                - generic [ref=f16e297]: 
+              - heading [level=6] [ref=f16e298]:
+                - strong [ref=f16e299]: ৳140
+              - link [ref=f16e300] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/590696078933680
+                - heading [level=5] [ref=f16e301]: হিমালয়ান পিংক সল্ট গুঁড়া | Himalayan Pink Salt Powder...
+            - heading [level=6] [ref=f16e302]
+            - text: 
+          - text:  
+        - generic [ref=f16e305]:
+          - generic [ref=f16e306]:
+            - link [ref=f16e308] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/727743771013033
+            - generic [ref=f16e310]:
+              - generic [ref=f16e312]:
+                - generic [ref=f16e313]: 
+                - generic [ref=f16e314]: 
+                - generic [ref=f16e315]: 
+                - generic [ref=f16e316]: 
+                - generic [ref=f16e317]: 
+              - heading [level=6] [ref=f16e318]:
+                - strong [ref=f16e319]: ৳1800
+              - link [ref=f16e320] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/727743771013033
+                - heading [level=5] [ref=f16e321]: ধনিয়ার গুঁড়া | Coriander Powder...
+            - heading [level=6] [ref=f16e322]
+            - text: 
+          - text:  
+        - generic [ref=f16e325]:
+          - generic [ref=f16e326]:
+            - link [ref=f16e328] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/167233538195717
+            - generic [ref=f16e330]:
+              - generic [ref=f16e332]:
+                - generic [ref=f16e333]: 
+                - generic [ref=f16e334]: 
+                - generic [ref=f16e335]: 
+                - generic [ref=f16e336]: 
+                - generic [ref=f16e337]: 
+              - heading [level=6] [ref=f16e338]:
+                - strong [ref=f16e339]: ৳1400
+              - link [ref=f16e340] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/167233538195717
+                - heading [level=5] [ref=f16e341]: মরিচের গুঁড়া- ঝাল | Chilli Powder (Spice)...
+            - heading [level=6] [ref=f16e342]
+            - text: 
+          - text:  
+        - generic [ref=f16e345]:
+          - generic [ref=f16e346]:
+            - link [ref=f16e348] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/598954979462660
+              - img "Product Image" [ref=f16e349]
+            - generic [ref=f16e350]:
+              - generic [ref=f16e352]:
+                - generic [ref=f16e353]: 
+                - generic [ref=f16e354]: 
+                - generic [ref=f16e355]: 
+                - generic [ref=f16e356]: 
+                - generic [ref=f16e357]: 
+              - heading [level=6] [ref=f16e358]:
+                - strong [ref=f16e359]: ৳800
+              - link [ref=f16e360] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/598954979462660
+                - heading "শাহী গরম মশলা | Shahi Garam Masala Powder..." [level=5] [ref=f16e361]
+            - heading [level=6] [ref=f16e362]
+            - text: 
+          - text:  
+        - generic [ref=f16e365]:
+          - generic [ref=f16e366]:
+            - link [ref=f16e368] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/64701358283483
+              - img "Product Image" [ref=f16e369]
+            - generic [ref=f16e370]:
+              - generic [ref=f16e372]:
+                - generic [ref=f16e373]: 
+                - generic [ref=f16e374]: 
+                - generic [ref=f16e375]: 
+                - generic [ref=f16e376]: 
+                - generic [ref=f16e377]: 
+              - heading [level=6] [ref=f16e378]:
+                - strong [ref=f16e379]: ৳140
+              - link [ref=f16e380] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/64701358283483
+                - heading "হলুদের গুঁড়া | Turmeric Powder..." [level=5] [ref=f16e381]
+            - heading [level=6] [ref=f16e382]
+            - text: 
+          - text:  
+        - generic [ref=f16e385]:
+          - generic [ref=f16e386]:
+            - link [ref=f16e388] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/502897867172481
+              - img "Product Image" [ref=f16e389]
+            - generic [ref=f16e390]:
+              - generic [ref=f16e392]:
+                - generic [ref=f16e393]: 
+                - generic [ref=f16e394]: 
+                - generic [ref=f16e395]: 
+                - generic [ref=f16e396]: 
+                - generic [ref=f16e397]: 
+              - heading [level=6] [ref=f16e398]:
+                - strong [ref=f16e399]: ৳1600
+              - link [ref=f16e400] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/502897867172481
+                - heading "আদার গুঁড়া | Ginger Powder..." [level=5] [ref=f16e401]
+            - heading [level=6] [ref=f16e402]
+            - text: 
+          - text:  
+        - generic [ref=f16e405]:
+          - generic [ref=f16e406]:
+            - link [ref=f16e408] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/590696078933680
+              - img "Product Image" [ref=f16e409]
+            - generic [ref=f16e410]:
+              - generic [ref=f16e412]:
+                - generic [ref=f16e413]: 
+                - generic [ref=f16e414]: 
+                - generic [ref=f16e415]: 
+                - generic [ref=f16e416]: 
+                - generic [ref=f16e417]: 
+              - heading [level=6] [ref=f16e418]:
+                - strong [ref=f16e419]: ৳140
+              - link [ref=f16e420] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/590696078933680
+                - heading "হিমালয়ান পিংক সল্ট গুঁড়া | Himalayan Pink Salt Powder..." [level=5] [ref=f16e421]
+            - heading [level=6] [ref=f16e422]
+            - text: 
+          - text:  
+        - generic [ref=f16e425]:
+          - generic [ref=f16e426]:
+            - link [ref=f16e428] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/727743771013033
+            - generic [ref=f16e430]:
+              - generic [ref=f16e432]:
+                - generic [ref=f16e433]: 
+                - generic [ref=f16e434]: 
+                - generic [ref=f16e435]: 
+                - generic [ref=f16e436]: 
+                - generic [ref=f16e437]: 
+              - heading [level=6] [ref=f16e438]:
+                - strong [ref=f16e439]: ৳1800
+              - link [ref=f16e440] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/727743771013033
+                - heading [level=5] [ref=f16e441]: ধনিয়ার গুঁড়া | Coriander Powder...
+            - heading [level=6] [ref=f16e442]
+            - text: 
+          - text:  
+        - generic [ref=f16e445]:
+          - generic [ref=f16e446]:
+            - link [ref=f16e448] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/167233538195717
+            - generic [ref=f16e450]:
+              - generic [ref=f16e452]:
+                - generic [ref=f16e453]: 
+                - generic [ref=f16e454]: 
+                - generic [ref=f16e455]: 
+                - generic [ref=f16e456]: 
+                - generic [ref=f16e457]: 
+              - heading [level=6] [ref=f16e458]:
+                - strong [ref=f16e459]: ৳1400
+              - link [ref=f16e460] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/167233538195717
+                - heading [level=5] [ref=f16e461]: মরিচের গুঁড়া- ঝাল | Chilli Powder (Spice)...
+            - heading [level=6] [ref=f16e462]
+            - text: 
+          - text:  
+        - generic [ref=f16e465]:
+          - generic [ref=f16e466]:
+            - link [ref=f16e468] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/598954979462660
+            - generic [ref=f16e470]:
+              - generic [ref=f16e472]:
+                - generic [ref=f16e473]: 
+                - generic [ref=f16e474]: 
+                - generic [ref=f16e475]: 
+                - generic [ref=f16e476]: 
+                - generic [ref=f16e477]: 
+              - heading [level=6] [ref=f16e478]:
+                - strong [ref=f16e479]: ৳800
+              - link [ref=f16e480] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/598954979462660
+                - heading [level=5] [ref=f16e481]: শাহী গরম মশলা | Shahi Garam Masala Powder...
+            - heading [level=6] [ref=f16e482]
+            - text: 
+          - text:  
+        - generic [ref=f16e485]:
+          - generic [ref=f16e486]:
+            - link [ref=f16e488] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/64701358283483
+            - generic [ref=f16e490]:
+              - generic [ref=f16e492]:
+                - generic [ref=f16e493]: 
+                - generic [ref=f16e494]: 
+                - generic [ref=f16e495]: 
+                - generic [ref=f16e496]: 
+                - generic [ref=f16e497]: 
+              - heading [level=6] [ref=f16e498]:
+                - strong [ref=f16e499]: ৳140
+              - link [ref=f16e500] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/64701358283483
+                - heading [level=5] [ref=f16e501]: হলুদের গুঁড়া | Turmeric Powder...
+            - heading [level=6] [ref=f16e502]
+            - text: 
+          - text:  
+        - generic [ref=f16e505]:
+          - generic [ref=f16e506]:
+            - link [ref=f16e508] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/502897867172481
+            - generic [ref=f16e510]:
+              - generic [ref=f16e512]:
+                - generic [ref=f16e513]: 
+                - generic [ref=f16e514]: 
+                - generic [ref=f16e515]: 
+                - generic [ref=f16e516]: 
+                - generic [ref=f16e517]: 
+              - heading [level=6] [ref=f16e518]:
+                - strong [ref=f16e519]: ৳1600
+              - link [ref=f16e520] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/502897867172481
+                - heading [level=5] [ref=f16e521]: আদার গুঁড়া | Ginger Powder...
+            - heading [level=6] [ref=f16e522]
+            - text: 
+          - text:  
+        - generic [ref=f16e525]:
+          - generic [ref=f16e526]:
+            - link [ref=f16e528] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/590696078933680
+            - generic [ref=f16e530]:
+              - generic [ref=f16e532]:
+                - generic [ref=f16e533]: 
+                - generic [ref=f16e534]: 
+                - generic [ref=f16e535]: 
+                - generic [ref=f16e536]: 
+                - generic [ref=f16e537]: 
+              - heading [level=6] [ref=f16e538]:
+                - strong [ref=f16e539]: ৳140
+              - link [ref=f16e540] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/590696078933680
+                - heading [level=5] [ref=f16e541]: হিমালয়ান পিংক সল্ট গুঁড়া | Himalayan Pink Salt Powder...
+            - heading [level=6] [ref=f16e542]
+            - text: 
+          - text:  
+        - generic [ref=f16e545]:
+          - generic [ref=f16e546]:
+            - link [ref=f16e548] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/727743771013033
+            - generic [ref=f16e550]:
+              - generic [ref=f16e552]:
+                - generic [ref=f16e553]: 
+                - generic [ref=f16e554]: 
+                - generic [ref=f16e555]: 
+                - generic [ref=f16e556]: 
+                - generic [ref=f16e557]: 
+              - heading [level=6] [ref=f16e558]:
+                - strong [ref=f16e559]: ৳1800
+              - link [ref=f16e560] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/727743771013033
+                - heading [level=5] [ref=f16e561]: ধনিয়ার গুঁড়া | Coriander Powder...
+            - heading [level=6] [ref=f16e562]
+            - text: 
+          - text:  
+        - generic [ref=f16e565]:
+          - generic [ref=f16e566]:
+            - link [ref=f16e568] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/product/167233538195717
+            - generic [ref=f16e570]:
+              - generic [ref=f16e572]:
+                - generic [ref=f16e573]: 
+                - generic [ref=f16e574]: 
+                - generic [ref=f16e575]: 
+                - generic [ref=f16e576]: 
+                - generic [ref=f16e577]: 
+              - heading [level=6] [ref=f16e578]:
+                - strong [ref=f16e579]: ৳1400
+              - link [ref=f16e580] [cursor=pointer]:
+                - /url: http://127.0.0.1:8000/product/167233538195717
+                - heading [level=5] [ref=f16e581]: মরিচের গুঁড়া- ঝাল | Chilli Powder (Spice)...
+            - heading [level=6] [ref=f16e582]
+            - text: 
+          - text:  
+  - listitem:
+    - link "" [ref=f16e583] [cursor=pointer]:
+      - /url: https://wa.me/#
+  - text:     
+  - contentinfo [ref=f16e585]:
+    - generic [ref=f16e587]:
+      - listitem [ref=f16e589]:
+        - link [ref=f16e591] [cursor=pointer]:
+          - /url: http://127.0.0.1:8000
+          - img "Application Logo" [ref=f16e592]
+        - generic [ref=f16e594]:
+          - list [ref=f16e595]:
+            - listitem [ref=f16e596]: TIC is a trusted e-commerce platform in Bangladesh.
+          - list [ref=f16e597]:
+            - listitem [ref=f16e598]:
+              - link "" [ref=f16e599] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f16e601]:
+              - link [ref=f16e602] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f16e603]: 
+            - listitem [ref=f16e604]:
+              - link [ref=f16e605] [cursor=pointer]:
+                - /url: "#"
+                - generic [ref=f16e606]: 
+            - listitem [ref=f16e607]:
+              - link "" [ref=f16e608] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f16e610]:
+              - link "" [ref=f16e611] [cursor=pointer]:
+                - /url: https://wa.me/#
+            - listitem [ref=f16e613]:
+              - link "" [ref=f16e614] [cursor=pointer]:
+                - /url: "#"
+            - listitem [ref=f16e616]:
+              - link "" [ref=f16e617] [cursor=pointer]:
+                - /url: "#"
+      - listitem [ref=f16e620]:
+        - generic [ref=f16e621]: Info 
+        - list [ref=f16e624]:
+          - listitem [ref=f16e625]:
+            - link "About Us" [ref=f16e626] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/About%20Us
+          - listitem [ref=f16e627]:
+            - link "FAQ" [ref=f16e628] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/FAQ
+          - listitem [ref=f16e629]:
+            - link "Privacy Policy" [ref=f16e630] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/Privacy%20Policy
+          - listitem [ref=f16e631]:
+            - link "Refund and Returns Policy" [ref=f16e632] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/Refund%20and%20Returns%20Policy
+          - listitem [ref=f16e633]:
+            - link "Terms & Conditions" [ref=f16e634] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/Terms%20&%20Conditions
+      - listitem [ref=f16e636]:
+        - generic [ref=f16e637]: Menu 
+        - list [ref=f16e640]:
+          - listitem [ref=f16e641]:
+            - link "Cart" [ref=f16e642] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/cart
+          - listitem [ref=f16e643]:
+            - link "Login" [ref=f16e644] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/login
+          - listitem [ref=f16e645]:
+            - link "Registration" [ref=f16e646] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/register
+          - listitem [ref=f16e647]:
+            - link "Vendor Register" [ref=f16e648] [cursor=pointer]:
+              - /url: http://127.0.0.1:8000/seller
+      - listitem [ref=f16e650]:
+        - generic [ref=f16e651]: Conatct US 
+        - list [ref=f16e654]:
+          - listitem [ref=f16e655]: A.H. Tower (5th Floor), H# G-71, Alokar Mor, Ghoramara Rajshahi, 6100
+          - listitem [ref=f16e656]: "Email: support@tic.com.bd"
+          - listitem [ref=f16e657]: "Contact No: +8809648156710"
+    - paragraph [ref=f16e661]: © All Rights Reserved By TIC
